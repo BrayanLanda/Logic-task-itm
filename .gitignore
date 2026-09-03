@@ -16,7 +16,7 @@ x86/
 
 # Visual Studio
 
-.vs/
+/.vs/
 *.user
 *.suo
 *.userosscache
@@ -124,6 +124,7 @@ Publish/
 
 coverage/
 .coverage/
+.vs/
 
 # Node
 
