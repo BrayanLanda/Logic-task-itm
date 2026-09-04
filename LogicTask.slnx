@@ -1,1 +1,8 @@
-<Solution />
+<Solution>
+  <Folder Name="/Shared/">
+    <Project Path="Shared/Shared.csproj" Id="d9ece3d5-89fc-4323-a56b-3caed531a0a4" />
+  </Folder>
+  <Folder Name="/TriangularMatrix/">
+    <Project Path="TriangularMatrix/TriangularMatrix.csproj" Id="b15b0864-2197-4ce0-89ba-0901ca325784" />
+  </Folder>
+</Solution>
