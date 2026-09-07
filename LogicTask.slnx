@@ -5,4 +5,7 @@
   <Folder Name="/TriangularMatrix/">
     <Project Path="TriangularMatrix/TriangularMatrix.csproj" Id="b15b0864-2197-4ce0-89ba-0901ca325784" />
   </Folder>
+   <Folder Name="/Hourglass/">
+    <Project Path="Hourglass/Hourglass.csproj" Id="a1b2c3d4-e5f6-7890-abcd-ef1234567890" />
+  </Folder>
 </Solution>
